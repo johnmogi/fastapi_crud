@@ -12,6 +12,9 @@ https://fastapi.tiangolo.com/advanced/async-sql-databases/
 3. mongo connect
 
 just your basic react hooks fe with bs5
+https://styled-components.com/
+yarn add styled-components
+
 1. fetch and build cards data
 2. form
 3. login with jwt
