@@ -4,6 +4,10 @@ just your basic fastApi CRUD be server
 https://fastapi.tiangolo.com/tutorial/body/
 
 
+cors:
+https://fastapi.tiangolo.com/tutorial/cors/
+
+https://fastapi.tiangolo.com/advanced/async-sql-databases/
 2. mysql connect
 3. mongo connect
 
